@@ -26,4 +26,4 @@ The goal is to identify customer trends and help improve sales strategy for 2024
 
 ## Project Purpose
 To create a clear, actionable dashboard showing customer behaviour, sales trends, and performance metrics, helping Vrinda Store plan better sales strategies for 2024.
-![Vrinda Store Dashboard](dashboard.png)
+![Vrinda Store Dashboard](Dashboard.png)
