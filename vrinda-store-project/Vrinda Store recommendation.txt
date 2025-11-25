@@ -1,0 +1,41 @@
+                                                          OBJECTIVE 
+ 
+Vrinda Store wants to create annual sales report for 2023. so that, Vrinda can understand their customers and grow more sales in 2024.]
+
+
+  QUIESTION
+
+compare the sale and orders using chart
+
+which month got the heighest sale and order
+
+who purchase more men or women
+
+what are diffrernt order status in 2023
+
+list to 5 states contributing to the sales
+
+relation between age and gender based on number 
+
+which channel is contributing to maximum sales
+
+heighest selling catagory
+
+
+
+INSIGHTS
+  
+Women are more likely to buy compared to men (65%)
+
+Maharashtra, Karnataka and Uttar Pradesh are top 3
+
+Adult age group (30-49 yrs)is max contributing (50%)
+
+Amazon, Flipkart and Myntra channels are max contributing (80%)
+
+
+    FINAL CONCLUSION TO IMPROVE VRINDA STORE SALES:
+
+Target Women Customers of age group (30-49 yrs)living in Maharashtra, Karnataka and Uttar Pradesh by showing them ads/offers/coupons available on Amazon, Flipkart and Myntra 
+
+
