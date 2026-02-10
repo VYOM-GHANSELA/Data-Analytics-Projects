@@ -14,7 +14,7 @@ join pizzas as pz
 on pz.pizza_type_id = pt.pizza_type_id
 where pz.price = (select max(price) from pizzas);
 
--- 4) Identify the most common pizza size ordered.
+-- 4) Identify the most common pizza quantity ordered.
 select quantity, count(order_details_id)
 from order_details group by quantity;
 
